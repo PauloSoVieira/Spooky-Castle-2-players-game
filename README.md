@@ -9,6 +9,8 @@ Authors
 @ruitiago23
 @PauloSoVieira
 @Vitoriaac19
+
+
 Spooky Castle Game Server
 
 This project implements a multiplayer text-based game server where players explore a haunted castle, solve quizzes, and collect keys to escape. The server manages client connections and game logic, ensuring a seamless and engaging experience for up to two players simultaneously.
